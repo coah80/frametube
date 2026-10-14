@@ -6,6 +6,8 @@ it's basically youtube.com/tv in a fullscreen electron window, plus a couple fix
 
 ## install
 
+[![Install with FramePort](https://cdn.jsdelivr.net/gh/spoopyghosty0/frameport@main/docs/badges/install-with-frameport-animated.svg)](https://frameport.app/install?manifest=https://github.com/coah80/frametube/releases/latest/download/manifest.json)
+
 1. grab `FrameTube-linux-arm64.tar.gz` from the [releases](../../releases) and unpack it
 2. in [FramePort](https://github.com/spoopyghosty0/frameport), go to add games, then "Add a Linux app… folder", and pick the unpacked folder
 3. install it to the frame, it shows up in your steam library as FrameTube
