@@ -1,7 +1,7 @@
 {
   "name": "frametube",
   "productName": "FrameTube",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "YouTube's TV interface as a Linux app for the Steam Frame, with controller navigation",
   "main": "src/main.js",
   "license": "MIT",
